@@ -1,0 +1,25 @@
+
+.write_body{
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.write_title{
+  font-size: 25px;
+  text-align: center;
+}
+
+.div_TR{
+  width: 100%;
+}
+
+.span_TD_label{
+  width: 20%;
+  float: left;
+
+}
+
+.span_TD_component{
+  
+}

@@ -1,0 +1,44 @@
+.login_wrapper{
+  width: 500px;
+  height: 500px;
+  border: 1px solid grey;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#login_title{
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 50px;
+  margin-top: 20px;
+}
+
+.log_label{
+  font-size: 12px;
+}
+
+
+#login_id input{
+  width: 250px;
+  height: 30px;
+}
+
+#login_pass input{
+  width: 250px;
+  height: 30px;
+}
+
+#login_button{
+  margin-top: 30px;
+
+}
+
+#login_button input{
+  width: 250px;
+  height: 40px;
+  border: 1px solid #002266;
+  background-color: #002266;
+  color: white;
+  margin-top: 5px;
+}

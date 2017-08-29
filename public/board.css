@@ -1,0 +1,151 @@
+.wrapper_board{
+  width:1000px;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.board_sub_menu{
+  width: 150px;
+  margin-left: 850px;
+  margin-bottom: 20px;
+
+}
+
+.board_sub_menu button{
+  width: 80px;
+  height: 35px;
+  border: 1px solid #002266;
+  background-color: #002266;
+  color: white;
+}
+
+.wrapper_table{
+  border-top: 2px solid #BDBDBD;
+  border-bottom: 2px solid #BDBDBD;
+  display: table-cell;
+}
+
+.wrapper_table tr{
+  border-top: 1px solid #BDBDBD;
+  height: 30px;
+}
+
+.board_title_label{
+  font-weight: bold;
+  border-bottom: 2px solid #BDBDBD;
+}
+
+.board_TR{
+  width: 1000px;
+  height: 50px;
+}
+
+.board_no_TD{
+  width: 50px;
+}
+.board_title_TD{
+  width: 550px;
+}
+.board_title_TD a{
+   text-decoration: none;
+   color: black;
+}
+.board_writer_TD{
+  width: 100px;
+}
+.board_date_time_TD{
+  width: 200px;
+}
+.board_view_TD{
+  width: 100px;
+}
+
+
+
+.page_num{
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
+  text-align: center;
+}
+
+/*============= board read ==============*/
+
+
+
+.board_content{
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 100px;
+
+}
+
+.board_content .board_no{
+  width: 200px;
+  margin: 0 auto;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.board_content .board_title{
+  width: 600px;
+  height: 50px;
+  margin: 0 auto;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.board_content hr{
+  border: 2px solid #D5D5D5;
+}
+
+.board_content .board_info hr{
+  border: 1px solid #D5D5D5;
+}
+
+.board_content .board_info{
+  width: 900px;
+  height: 100px;
+  margin: 0 auto;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+.b_i_label{
+  width: 740px;
+  text-align: right;
+}
+
+.board_content .b_c_label{
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.board_content .contents{
+  width: 900px;
+  height: 500px;
+  margin: 0 auto;
+  border: 1px solid grey;
+
+}
+.board_content .files{
+  width: 900px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.board_write{
+  width: 1000px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  background-color: yellow;
+}

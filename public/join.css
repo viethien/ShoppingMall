@@ -1,0 +1,103 @@
+
+.join_div_title{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.join_table{
+  width: 750px;
+  height: 400px;
+  border-collapse: collapse;
+  border: 2px solid #D5D5D5;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-size: 13px;
+}
+
+.join_table tr td{
+  border: 1px solid #D5D5D5;
+}
+
+.join_table .join_table_label{
+  width: 150px;
+}
+
+.join_table input{
+  margin-left: 10px;
+}
+
+.join_table .input_small {
+  margin-right: 5px;
+  width: 50px;
+  height: 20px;
+  text-align: center;
+}
+.join_table .input_medium {
+  margin-right: 5px;
+  width: 150px;
+  height: 20px;
+}
+.join_table .input_large {
+  margin-right: 5px;
+  width: 450px;
+  height: 20px;
+}
+
+
+.join_table .pass_confirm_btn{
+  width: 70px;
+  height: 27px;
+  border: 1px solid #123478;
+  background-color: #123478;
+  font-weight: bold;
+  color: white;
+}
+
+.join_table select {
+  width: 100px;
+  height: 30px;
+}
+
+.star_mark{
+  color: red;
+  font-weight: bold;
+}
+
+
+
+
+
+.join_button{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.join_button input{
+  width: 70px;
+  height: 35px;
+  border: 1px solid #123478;
+  background-color: #123478;
+  color: white;
+  font-weight: bold;
+}
+
+/*==================modify에서 사용됨===========*/
+
+.modify_button{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.modify_button input{
+  width: 70px;
+  height: 35px;
+  border: 1px solid #123478;
+  background-color: #123478;
+  color: white;
+  font-weight: bold;
+}

@@ -1,0 +1,135 @@
+
+.product_buy_button{
+width: 100px;
+height: 50px;
+margin-right: 10px;
+float: left;
+border: 1px solid #123478;
+background-color: #123478;
+color: white;
+}
+
+.product_buy_info{
+  width: 1000px;
+  padding-top: 50px;
+  /*text-align: center;*/
+  margin: 0 auto;
+}
+
+.product_buy_info hr{
+  border: 1px solid #BDBDBD;
+}
+
+
+.product_buy_user_info{
+  width: 1000px;
+  /*text-align: center;*/
+  margin: 0 auto;
+
+}
+
+
+.product_buy_label{
+  width: 200px;
+  height: 30px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+
+
+.product_buy_info .p_buy_info_table thead tr{
+  height: 50px;
+  border-top: 3px solid #BDBDBD;
+  background-color: #EAEAEA;
+  text-align: center;
+  font-weight: bold;
+}
+.product_buy_info .p_buy_info_table tbody tr{
+  height: 100px;
+  border-top: 1px solid #BDBDBD;
+  border-bottom: 3px solid #BDBDBD;
+  text-align: center;
+
+}
+.product_buy_info .p_buy_info_table td{
+  vertical-align: middle;
+}
+
+.p_buy_info_table  .p_buy_img{
+  width: 150px;
+}
+.p_buy_info_table  .p_buy_img img{
+  width: 100px;
+}
+.p_buy_info_table .p_buy_title{
+  width: 500px;
+}
+.p_buy_info_table  .p_buy_count{
+  width: 50px;
+}
+.p_buy_info_table  .p_buy_price{
+  width: 100px;
+}
+.p_buy_info_table  .p_buy_point{
+  width: 100px;
+}
+.p_buy_info_table  .p_buy_deliver_price{
+  width: 100px;
+}
+
+
+
+
+/*==================================================*/
+
+.product_buy_info .p_buy_price_info_table thead tr{
+  height: 50px;
+  border-top: 3px solid #BDBDBD;
+  background-color: #EAEAEA;
+  text-align: center;
+  font-weight: bold;
+}
+.product_buy_info .p_buy_price_info_table tbody tr{
+  height: 100px;
+  border-top: 1px solid #BDBDBD;
+  border-bottom: 3px solid #BDBDBD;
+  text-align: center;
+
+}
+.product_buy_info .p_buy_price_info_table td{
+  vertical-align: middle;
+}
+
+.p_buy_price_info_table  .p_buy_p_plus{
+  width: 25px;
+  font-weight: bold;
+}
+.p_buy_price_info_table  .p_buy_p_price{
+  width: 150px;
+}
+.p_buy_price_info_table  .p_buy_p_deliver {
+  width: 150px;
+}
+.p_buy_price_info_table .p_buy_p_discount{
+  width: 150px;
+}
+.p_buy_price_info_table  .p_buy_p_additional{
+  width: 150px;
+}
+.p_buy_price_info_table  .p_buy_p_total_price{
+  width: 300px;
+}
+
+
+
+.product_payment_button{
+  width: 300px;
+  margin: 0 auto;
+}
+
+.product_payment_button input{
+  width: 200px;
+  height: 50px;
+}
